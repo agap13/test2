@@ -1,1 +1,3 @@
 Test repo zdalnego i lokalnego
+Nowa linijka test wrzucanai zmain an zewnatrz
+!!!!!!!!!!!!!!
